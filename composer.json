@@ -3,7 +3,7 @@
   "description": "phalcon php",
   "keywords": ["phalcon","form","embed"],
   "require": {
-    "phalcon/cphalcon": ">=1.3.*"
+    "phalcon/cphalcon": ">=1.3"
   },
   "license": "MIT",
   "authors": [
