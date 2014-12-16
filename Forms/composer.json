@@ -1,0 +1,15 @@
+{
+  "name": "beauteprivee/phalcon-forms",
+  "description": "Upgraded form for phalcon php",
+  "keywords": ["phalcon","form","embed"],
+  "require": {
+    "phalcon/cphalcon": ">=1.3.*"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Beauteprivee Team",
+      "homepage": "http://www.beauteprivee.com"
+    }
+  ]
+}
